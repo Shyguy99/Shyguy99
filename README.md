@@ -40,7 +40,7 @@ I am currently pursuing my Bachelors of Technology under the domain of Computer 
   <img align="left" alt="Kailash Sharma's | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/vashisth_1809/">
-  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img align="left" alt="Kailash Sharma's | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
 </a>
 
 
