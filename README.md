@@ -23,7 +23,6 @@ I am currently pursuing my Bachelors of Technology under the domain of Computer 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking for any kind of opportunity
 - 📫 How to reach me: mail:readytouse99@gmail.com
-- 📄 [Resume](https://drive.google.com/file/d/1W8K09xDyKiG5cxzoAeFV-unm2qhxHDRd/view?usp=sharing)
 - ⚡ Fun fact: I love badminton🏸 and music🎧.
 
 <p align="centre"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" /></p>
