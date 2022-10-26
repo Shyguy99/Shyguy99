@@ -16,14 +16,14 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 ## Who Am I?
-I am currently pursuing my Bachelors of Technology under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
+I am a person who write code... Correction I am a person who loves to write code.
 
 
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking for any kind of opportunity
 - 📫 How to reach me: mail:readytouse99@gmail.com
-- ⚡ Fun fact: I love badminton🏸 and music🎧.
+- ⚡ Fun fact: I love table tennis🏓 and music🎧.
 
 <p align="centre"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" /></p>
 
